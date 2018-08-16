@@ -14,7 +14,11 @@ Attribute VB_Exposed = False
 Public Function sD_cTest() As String
 On Error GoTo ErrorLine:
 
+<<<<<<< HEAD
     sD_cTest = "Class Test Alter2"
+=======
+    sD_cTest = "Class Test Alter"
+>>>>>>> 6b60a56b547ac048401bf5220acc290b45efbfea
 
 ErrorLine:
 
