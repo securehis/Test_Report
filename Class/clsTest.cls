@@ -14,7 +14,7 @@ Attribute VB_Exposed = False
 Public Function sD_cTest() As String
 On Error GoTo ErrorLine:
 
-    sD_cTest = "Class Test"
+    sD_cTest = "Class Test Alter2"
 
 ErrorLine:
 
